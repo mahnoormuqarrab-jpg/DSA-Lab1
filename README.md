@@ -1,2 +1,1 @@
-# DSA-Lab1
-Edited directly on GitHub
+Edited locally on Mac and on GitHub
